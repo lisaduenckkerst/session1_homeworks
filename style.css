@@ -1,0 +1,117 @@
+body {
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+}
+
+
+nav {
+float: right;
+}
+
+nav ul {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+nav li {
+display: inline-block;
+margin-left: 50px;
+padding-top: 35px;
+position: relative;
+}
+
+nav a {
+color: #353535;
+text-decoration: none;
+}
+
+nav a:hover {
+color: #000000;
+transition: all ease-in-out 250ms;
+}
+
+
+.navigation {
+width: 90%;
+margin: 0 auto;
+height: 90px;
+
+}
+
+.logo {
+width: 100px;
+float: left;
+padding: 35px 0;
+}
+
+
+.Intro {
+width: 90%;
+margin: 0px auto;
+text-align: center;
+background-color: #f7f7f7;
+height: 500px;
+}
+
+.logo-intro {
+height: 200px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 90px;
+}
+
+h1{
+padding-top: 40px;
+text-align: center;
+font-size: 30px;
+position: relative;
+color: #353535;  /*353535*/
+}
+
+.button-intro {
+font-size: 18px;
+height: 30px;
+width: 200px;
+color: white;
+margin: 20px auto;
+padding-top: 10px;
+background: #e74322;
+text-decoration: none;
+display: block;
+}
+
+.button-intro:hover {
+font-size: 18px;
+height: 30px;
+width: 200px;
+color: #e74322;
+margin: 20px auto;
+padding-top: 10px;
+background: #ffffff;
+text-decoration: none;
+display: block;
+transition: all ease-in-out 350ms;
+}
+
+.Trenner {
+font-size: 18px;
+height: 1px;
+width: 90%;
+margin: 55px auto;
+background: #353535;
+display: block;
+}
+
+
+.Explore-City {
+font-size: 18px;
+height: 0px;
+width: 90%;
+margin: 0px auto;
+display: block;
+}
+
+
